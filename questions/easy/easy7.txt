@@ -1,0 +1,6 @@
+One of the sides of right triangle is 3 and the other one is 4. What is the hypotenuse?
+1) 2
+2) 6
+3) 7
+4) 5
+@4

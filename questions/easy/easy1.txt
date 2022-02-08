@@ -1,0 +1,6 @@
+Which country is the largest in the world?
+1) USA
+2) China
+3) Iran
+4) Russia
+@4

@@ -1,0 +1,6 @@
+Which one is the capital of Iran
+1) Baghdad
+2) Kabul
+3) Tehran
+4) Islamabad
+@3
